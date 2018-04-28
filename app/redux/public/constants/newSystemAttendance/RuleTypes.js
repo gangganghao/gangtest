@@ -1,6 +1,6 @@
 import keyMirror from 'fbjs/lib/keyMirror';
 
-export default keyMirror({
+export default keyMirror({1234
     GET_ATTENDANCE_RULE_LIST_DATA:null,
     GET_ATTENDANCE_RULE_INFO:null,
     UPDATE_ATTENDANCE_RULE_INFO:null,
